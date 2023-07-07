@@ -61,4 +61,4 @@ module.exports = {
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
   datetimeFormat: 'YYYY-MM-DD HH:mm:ss',
-}
+} 
